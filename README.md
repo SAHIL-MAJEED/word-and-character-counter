@@ -9,8 +9,6 @@ This plug-in allows you to count characters or words, up or down. You can set a 
 It will insert a <code>div</code> with an id of the name of the <code>input</code> area you are counting, appended with the string "_counter".
 For example, if the input you want to count is called "awesome", the id of the div that keeps track of the count will be "awesome_counter".
 
-Simple? You bet your ass it is.
-
 [Demos and code samples](http://qwertypants.github.io/jQuery-Word-and-Character-Counter-Plugin/)
 
 
